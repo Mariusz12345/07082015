@@ -8,8 +8,8 @@ public class Samochod  {
 	public String imie;
 	public String nazwisko;
 	public Integer numerTelefonu;
-	
-	
 	String [] serwis = {"data1","data2"};
+	
+	
 	
 }

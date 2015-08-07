@@ -24,6 +24,4 @@ public class SLista {
 		this.nazwaPola = nazwaPola;
 	}
 	
-	
-
 }
