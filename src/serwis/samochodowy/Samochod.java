@@ -1,7 +1,7 @@
 package serwis.samochodowy;
 
 
-public class Samochod  {
+public class Samochod extends Serwis {
 
 	public Integer nrRejestracj;
 	public String daneKlienta;

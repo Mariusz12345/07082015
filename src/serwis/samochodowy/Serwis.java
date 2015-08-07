@@ -24,22 +24,6 @@ public class Serwis extends JPanel {
 		initComponents();
 	}
 
-	private void scrollPane1ComponentAdded(ContainerEvent e) {
-		
-		
-	}
-
-	private void scrollPane1ComponentRemoved(ContainerEvent e) {
-		// TODO add your code here
-	}
-
-	private void scrollPane1PropertyChange(PropertyChangeEvent e) {
-		// TODO add your code here
-	}
-	
-	
-
-
 	private void initComponents() {
 		// JFormDesigner - Component initialization - DO NOT MODIFY  //GEN-BEGIN:initComponents
 		// Generated using JFormDesigner Evaluation license - Adam Piotr
