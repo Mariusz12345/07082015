@@ -1,5 +1,5 @@
 /*
- * Created by JFormDesigner on Fri Aug 07 07:00:04 CEST 2015
+ * Created by JFormDesigner on Fri Aug 07 09:08:57 CEST 2015
  */
 
 package serwis.samochodowy;
@@ -10,8 +10,8 @@ import com.jgoodies.forms.layout.*;
 /**
  * @author Adam Piotr
  */
-public class Formatka extends JPanel {
-	public Formatka() {
+public class DaneKlienta extends JPanel {
+	public DaneKlienta() {
 		initComponents();
 	}
 
